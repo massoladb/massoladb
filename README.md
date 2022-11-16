@@ -1,0 +1,3 @@
+- Meu nome é Felipe Massola
+- Atualmente eu curso o segundo módulo do curso técnico de Desenvolvimento de Sistemas na Etec Drª Ruth Cardoso
+- Você pode me encontrar no instagram: @lipemassola
