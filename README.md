@@ -1,3 +1,4 @@
 - Meu nome é Felipe Massola
-- Atualmente eu curso o segundo módulo do curso técnico de Desenvolvimento de Sistemas na Etec Drª Ruth Cardoso
+- Sou formado técnico em Desenvolvimento de Sistemas pela Etec Doutora Ruth Cardoso
+- Atualmente eu curso Análise e Desenvolvimento de Sistemas na Fatec Baixada Santista - Rubens Lara
 - Você pode me encontrar no instagram: @lipemassola
